@@ -26,7 +26,7 @@
             android:layout_width="170dp"
             android:layout_height="170dp"
             android:layout_gravity="center"
-            />
+            android:src="@drawable/magic_ruby" />
 
         <TextView
             android:id="@+id/ad_text"
